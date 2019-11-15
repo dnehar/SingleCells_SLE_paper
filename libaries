@@ -1,0 +1,15 @@
+library_id,molecule_h5
+Sample1,/path_Sample1/molecule_info.h5
+Sample2,/path_Sample2/molecule_info.h5
+Sample3,/path_Sample3/molecule_info.h5
+Sample4,/path_Sample4/molecule_info.h5
+Sample5,/path_Sample5/molecule_info.h5
+Sample6,/path_Sample6/molecule_info.h5
+Sample7,/path_Sample7/molecule_info.h5
+Sample8,/path_Sample8/molecule_info.h5
+Sample9,/path_Sample9/molecule_info.h5
+Sample10,/path_Sample10/molecule_info.h5
+Sample11,/path_Sample11/molecule_info.h5
+Sample12,/path_Sample12/molecule_info.h5
+...
+SampleX,/path_SampleX/molecule_info.h5
