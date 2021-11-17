@@ -1,13 +1,16 @@
 # Cohort information:
 
-  1- childhood SLE (cSLE) cohort: 44 samples  
-We profiled ~260K peripheral blood mononuclear cells (PBMCs) from 33 children with
+1- childhood SLE (cSLE) cohort: 44 samples  
+
+We single cell profiled ~260K peripheral blood mononuclear cells (PBMCs) from 33 children with
 SLE with different degrees of disease activity and 11 matched control
 
-  2- caSLE cohort (childhood + adult SLE): 58 samples 
+2- caSLE cohort (childhood + adult SLE): 58 samples 
+
 in addition to 33 cSLE + 11cHD, we profiled PBMC form 8 adult SLE and 6 healthy controls.
 
 # Single cell Technology 
+
 10X Genomics. chemistry = V2
 
 # Scripts used for the analysis available:
@@ -25,8 +28,8 @@ Nehar-Belaid D, Hong S, Marches R, Chen G, Bolisetty M, Baisch J, Walters L, Pun
 # raw counts (after CellRanger processing) available here: 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135779
 
-# fastq  files to be requested here: 
-accession code phs002048.v1.p1.
+# fastq  files to be requested here (dbGAP): 
+https://www.ncbi.nlm.nih.gov/projects/gapprev/gap/cgi-bin/study.cgi?study_id=phs002048.v2.p1
 
-# shiny app: 
+# shiny app (Subclster analysis in cSLE): 
  https://scrnaseq-sle.jax.org/
