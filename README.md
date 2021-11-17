@@ -1,18 +1,32 @@
-# Single cells SLE paper: Mapping SLE heterogeneity at the single cell level
+# Cohort information:
+
+  1- childhood SLE (cSLE) cohort: 44 samples  
+We profiled ~260K peripheral blood mononuclear cells (PBMCs) from 33 children with
+SLE with different degrees of disease activity and 11 matched control
+
+  2- caSLE cohort (childhood + adult SLE): 58 samples 
+in addition to 33 cSLE + 11cHD, we profiled PBMC form 8 adult SLE and 6 healthy controls.
+
+# Single cell Technology 
+10X Genomics. chemistry = V2
+
+# Scripts used for the analysis available:
 
 - Scripts/notebooks used for the analysis 
-- Data Processing using scanpy 
-- Batch correction using BBKNN 
+- Data Processing using scanpy pipeline (https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html)
+- Batch correction using BBKNN (https://github.com/Teichlab/bbknn)
+
+# Publication associated with thess datasets: 
+
+doi:10.1038/s41590-020-0743-0. PMID:32747814
+Nehar-Belaid D, Hong S, Marches R, Chen G, Bolisetty M, Baisch J, Walters L, Punaro M, Rossi R, Chung C-H, Huynh R, Singh P, Flynn W.F, Tabanor J-A, Kuchipudi N, Mejias A, Collet M, Lucido A-L, Palucka K, Robson P, Lakshminarayanan S, Ramilo O, Wright T, Pascual V and Banchereau J. Mapping SLE heterogeneity at the single cell level. Nature Immunology. 2020 Aug 3. 
 
 
-#--  Authors: 
-Djamel Nehar-Belaid1,8, Seunghee Hong2,8, Radu Marches1, Guo Chen1, Mohan Bolisetty1, Jeanine Baisch2, Lynnette Walters3, Marilynn Punaro3,4, Robert Rossi1, Cheng-Han Chung1, Richie Huynh1, Prashant Singh1, William F. Flynn1, Joy-Ann Tabanor6, Navya Kuchipudi6, Asuncion Mejias7, Anna Lisa Lucido1, Karolina Palucka1, Paul Robson1,5,6, Santhanam Lakshminarayanan6, Octavio Ramilo7, Tracey Wright3,4, Virginia Pascual2*# and Jacques Banchereau1*#
+# raw counts (after CellRanger processing) available here: 
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135779
 
-#-- Affiliations
-1 The Jackson Laboratory for Genomic Medicine, Farmington, CT 06030, USA
-2 Drukier Institute for Children’s Health and Department of Pediatrics, Weill Cornell Medicine, New York, NY 10021, USA
-3 Texas Scottish Rite Hospital for Children, Dallas, TX 75219, USA
-4 UT Southwestern Medical Center, Dallas, TX 75390, USA
-5 Institute for Systems Genomics and Department of Genetics & Genome Sciences, Farmington, CT 06032, USA
-6 University of Connecticut School of Medicine, Farmington, CT 06032, USA
-7 Nationwide Children's Hospital and the Ohio State University School of Medicine, Division of Pediatric Infectious Diseases, Columbus, OH 43205, USA.
+# fastq  files to be requested here: 
+accession code phs002048.v1.p1.
+
+# shiny app: 
+ https://scrnaseq-sle.jax.org/
