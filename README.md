@@ -1,11 +1,11 @@
 ## Cohort information:
 
-1- childhood SLE (cSLE) cohort: 44 samples  
+1- **Childhood SLE (cSLE) cohort**: 44 samples  
 
 We single cell profiled ~260K peripheral blood mononuclear cells (PBMCs) from 33 children with
 SLE with different degrees of disease activity and 11 matched control
 
-2- caSLE cohort (childhood + adult SLE): 58 samples 
+2- **Childhood - adult SLE (caSLE) cohort**: 58 samples 
 
 in addition to 33 cSLE + 11cHD, we profiled PBMC form 8 adult SLE and 6 healthy controls.
 
