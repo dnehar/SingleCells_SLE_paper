@@ -4,7 +4,7 @@
 We single cell profiled ~260K peripheral blood mononuclear cells (PBMCs) from 33 children with
 SLE with different degrees of disease activity and 11 matched control.  <br/> <br/> 
 2- **Childhood - adult SLE (caSLE) cohort**: 58 samples <br/> 
-in addition to 33 cSLE + 11cHD, we profiled PBMC form 8 adult SLE and 6 healthy controls. <br/> 
+in addition to 33 cSLE + 11 cHD, we profiled PBMC form 8 adult SLE (aSLE) and 6 healthy controls (aHD). <br/> 
 
 ## Scripts used for the analysis: <br/> 
 - Scripts/notebooks used for the analysis <br/> 
