@@ -21,7 +21,7 @@ Accession number: [GSE135779]
 Accession number: [phs002048.v2.p1] <br/> 
 
 ## Interect with the data using R shiny package: <br/> 
-link to [Shiny app]
+Link to [Shiny app]
 
 ## Single cell Technology: <br/> 
 10X Genomics. chemistry = V2 <br/> 
