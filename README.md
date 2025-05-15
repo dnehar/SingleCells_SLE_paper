@@ -20,6 +20,9 @@ Accession number: [GSE135779]
 ## Fastq  files were deposited to dbGAP: 
 Accession number: [phs002048.v2.p1] <br/> 
 
+## Interect with the data using R shiny package: <br/> 
+link to [Shiny app]
+
 ## Single cell Technology: <br/> 
 10X Genomics. chemistry = V2 <br/> 
 
@@ -28,4 +31,4 @@ Accession number: [phs002048.v2.p1] <br/>
 [scanpy pipeline]: https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html
 [BBKNN]: https://github.com/Teichlab/bbknn 
 [phs002048.v2.p1]: https://www.ncbi.nlm.nih.gov/projects/gapprev/gap/cgi-bin/study.cgi?study_id=phs002048.v2.p1
-
+[Shiny app]: https://dnehar.shinyapps.io/cSLE_app/
