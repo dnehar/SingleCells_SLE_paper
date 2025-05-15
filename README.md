@@ -20,7 +20,7 @@ Accession number: [GSE135779]
 ## Fastq  files were deposited to dbGAP: 
 Accession number: [phs002048.v2.p1] <br/> 
 
-## Interect with the data using R shiny package: <br/> 
+## Interact with the data using R shiny package: <br/> 
 Link to [Shiny app]
 
 ## Single cell Technology: <br/> 
